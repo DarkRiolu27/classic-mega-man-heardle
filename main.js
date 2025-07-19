@@ -3913,7 +3913,7 @@ var app = (function () {
             answer: "Boss Battle - Mega Man",
           },
           {
-            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/nachohjk/megaman-7-intro-stage",
             answer: "Ruined Highway (Intro Stage) - Mega Man 7",
           },
           {
@@ -4617,7 +4617,7 @@ var app = (function () {
             answer: "Quick Man - Mega Man 2",
           },
           {
-            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/nachohjk/megaman-7-intro-stage",
             answer: "Ruined Highway (Intro Stage) - Mega Man 7",
           },
           {
@@ -5073,7 +5073,7 @@ var app = (function () {
             answer: "Block Man - Mega Man 11",
           },
           {
-            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/nachohjk/megaman-7-intro-stage",
             answer: "Ruined Highway (Intro Stage) - Mega Man 7",
           },
           {
@@ -5313,7 +5313,7 @@ var app = (function () {
             answer: "Introduction/Prologue/Opening - Mega Man 4",
           },
           {
-            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/nachohjk/megaman-7-intro-stage",
             answer: "Ruined Highway (Intro Stage) - Mega Man 7",
           },
           {
