@@ -150,7 +150,7 @@ var app = (function () {
       "Intro Stage - Mega Man 8",
       "Dr. Wily Stage 1 - Mega Man 8",
       "Dr. Wily Stage 2 - Mega Man 8",
-      "Dr. Wily Stage 2 - Mega Man 8",
+      "Dr. Wily Stage 3 - Mega Man 8",
     ]),
     On = {
       subscribe: ue(
