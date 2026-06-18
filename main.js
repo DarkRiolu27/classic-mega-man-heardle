@@ -5860,6 +5860,5334 @@ var app = (function () {
             url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Dr. Wily Stage 1 & 2 - Mega Man",
           },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/drillman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drill Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/flashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/07-cloudman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloud Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/snakeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Snake Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/12-slashman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gyroman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gyro Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/21-boss?in=megaman2originalsound/sets/mega-man-2-1988-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/intro?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-087-impact-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Impact Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/aqua-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Aqua Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/nitro-rider-nitro-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nitro Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/27-ending?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/password?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/04-pass-word?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/10-knight-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knight Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/05-stage-select?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/07-blizzard-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/stage-select?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/intro-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Intro Stage - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/goqui/mega-man-2-dr-wily-stage-1-2-theme-original?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bubbleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-085-tundra-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tundra Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-088-bounce-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bounce Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/01-title?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 5 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/diveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dive Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/splash-blue-splash-woman-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Splash Woman - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/sword-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sword Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/09-boss?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/24-fortes-theme?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bass and Treble - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-4?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr Wily Stage - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/05-stage-select?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/04-opening-stage?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ruined Highway (Intro Stage) - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/23-ending?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man (Epilogue) - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/retrogamemusic/select-stage-nes?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/05-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/astro-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Astro Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/polluted-pump-pump-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pump Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/19-wily-stage-4?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 4 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-1?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/geminiman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gemini Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/21-dr-wily-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/absolute-chill-chill-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/king-of-blades-blade-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blade Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/plug-electric-plug-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plug Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/14-yamato-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Yamato Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/frost-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/09-flame-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/desert-commando-commando-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Commando Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/08-junkman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Junk Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/27-continue-password?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/magma-burning-magma-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/21-the-8-great-bosses?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gravityman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/clown-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Clown Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/quickman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Quick Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/09-burstman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Burst Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/starman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/hardman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hard Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-3?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/iceman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ice Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/16-wily-stage-1?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/cybersheeps-dream-sheep-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sheep Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/01-opening?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/waveman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wave Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/search-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Search Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/title-screen?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/04-pass-word?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/megaman2originalsound/04-stage-select?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/wily-stage-3-5?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3, 4, & 5 - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 3 & 4 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/03-title?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/19-mr-x-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mr. X Stage - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/title-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ringman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ring Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/fireman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fire Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/jewel-temptation-jewel-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jewel Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dustman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dust Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-3?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/heatman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Heat Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/crashman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/01-opening?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/concrete-jungle-concrete-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Concrete Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/boss?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/dr-wily-stage-2?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/08-centaur-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Centaur Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/brightman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bright Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-2-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 & 4 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/cutman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cut Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/sky-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tengu Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/13-wind-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wind Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/17-wily-stage-2?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 2 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/elecman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Elec Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/galaxy-fantasy-galaxy-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Galaxy Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/megamanoriginalsoundtrack/01-stage-select?in=megamanoriginalsoundtrack/sets/mega-man-1987-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/ending?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/03-title?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/thunder-tornado-tornado-man-stage?in=user-963379640/sets/mega-man-9-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tornado Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/robot-master-battle?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-081-block-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Block Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/stoneman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stone Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/patavit-hathaway/grenade-man-stage?in=xweetok/sets/megaman8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grenade Man - Mega Man 8",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-083-blast-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/11-springman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spring Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/15-boss?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/airman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Air Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/13-turboman?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Turbo Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/napalmman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Napalm Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/solar-inferno-solar-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Solar Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/03-pass-word?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/magnetman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magnet Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-wily-stage-1-2?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 1 & 2 - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-963379640/fireball-strike-strike-man-stage?in=user-963379640/sets/mega-man-10-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Strike Man - Mega Man 10",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/shadowman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shadow Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/chargeman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Charge Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/skullman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skull Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/02-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Introduction/Prologue/Opening - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-084-acid-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Acid Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/pharaohman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pharaoh Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-086-torch-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Torch Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-4-original-sound/16-boss?in=mega-man-4-original-sound/sets/mega-man-4-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/toadman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toad Man - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/darkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Proto Man's Fortress (Dark Man Stage) - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-3-original-sound/02-pass-word?in=mega-man-3-original-sound/sets/mega-man-3-1990-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user-386868166/dwn-082-fuse-man?in=user-386868166/sets/megaman-11-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fuse Man - Mega Man 11",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/12-tomahawk-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tomahawk Man - Mega Man 6",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/14-shademan?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Shade Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/bombman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bomb Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/topman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/admiralpotamus/ending?in=admiralpotamus/sets/megaman-2-nes-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Epilogue - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/13-crystal-man-stage?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Man - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/dr-cossack-stage-1?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cossack Stage 1 & 2 - Mega Man 4",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-5-original-soundtrack/04-stage-select?in=mega-man-5-original-soundtrack/sets/mega-man-5-1992-original&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select - Mega Man 5",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/woodman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wood Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/joonie-noonie/freez-mans-stage-mega-man-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Freeze Man - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/metalman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Metal Man - Mega Man 2",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-7-original-sound/18-wily-stage-3?in=mega-man-7-original-sound/sets/mega-man-7-original-soundtrack&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Wily Stage 3 - Mega Man 7",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/hornet-man-stage-mega-man-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hornet Man - Mega Man 9",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/sparkman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/needleman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Needle Man - Mega Man 3",
+          },
+          {
+            url: "https://soundcloud.com/user696030880/gutsman-stage?in=matthew-moore-469184783/sets/mega-man-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Guts Man - Mega Man",
+          },
+          {
+            url: "https://soundcloud.com/mega-man-6-original-sound/11-plant-man-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Plant Man - Mega Man 6",
+          },
         ],
         
         Pn
